@@ -1,0 +1,18 @@
+[
+	{
+		"productName": "book",
+		"productCategory": "STATIONERY"
+	},
+	{
+		"productName": "potato chips",
+		"productCategory": "FOOD"
+	},
+	{
+		"productName": "pencil",
+		"productCategory": "STATIONERY"
+	},
+	{
+		"productName": "shirt",
+		"productCategory": "CLOTHING"
+	}
+]

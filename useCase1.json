@@ -1,0 +1,15 @@
+{
+	"storeLocation": "CA",
+	"orderLines": [
+		{
+			"productName": "book",
+			"price": 17.99,
+			"quantity": 1
+		},
+		{
+			"productName": "potato chips",
+			"price": 3.99,
+			"quantity": 1
+		}
+	]
+}

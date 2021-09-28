@@ -1,0 +1,17 @@
+[
+	{
+		"state": "CA",
+		"taxRate": "9.75",
+		"exemptedCategories": [
+			"FOOD"
+		]
+	},
+	{
+		"state": "NY",
+		"taxRate": "8.875",
+		"exemptedCategories": [
+			"FOOD",
+			"CLOTHING"
+		]
+	}
+]

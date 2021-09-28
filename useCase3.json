@@ -1,0 +1,15 @@
+{
+	"storeLocation": "NY",
+	"orderLines": [
+		{
+			"productName": "pencil",
+			"price": 2.99,
+			"quantity": 2
+		},
+		{
+			"productName": "shirt",
+			"price": 29.99,
+			"quantity": 1
+		}
+	]
+}
